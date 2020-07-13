@@ -1,0 +1,152 @@
+{
+  "_type": "Images",
+  "instrumentation": {
+    "_type": "ResponseInstrumentation"
+  },
+  "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/images\/search?q=pizza",
+  "webSearchUrl": "https:\/\/www.bing.com\/images\/search?q=pizza&FORM=OIIARP",
+  "queryContext": {
+    "originalQuery": "pizza",
+    "alterationDisplayQuery": "pizza",
+    "alterationOverrideQuery": "+pizza",
+    "alterationMethod": "AM_JustChangeIt",
+    "alterationType": "CombinedAlterationsChained"
+  },
+  "totalEstimatedMatches": 179,
+  "nextOffset": 5,
+  "currentOffset": 0,
+  "value": [
+    {
+      "webSearchUrl": "https:\/\/www.bing.com\/images\/search?view=detailv2&FORM=OIIRPO&q=pizza&id=C7DD72A5AB7430E3AE5ABD942F3FB0AC30B70156&simid=608011985717035119",
+      "name": "Easy Italian Pizza Dough Recipe | Recipes From A Pantry",
+      "thumbnailUrl": "https:\/\/tse1.mm.bing.net\/th?id=OIP.Gg9P-S8Q-wOLlxxZ63dr6gHaLH&pid=Api",
+      "datePublished": "2018-01-31T12:03:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https:\/\/recipesfromapantry.com\/wp-content\/uploads\/2014\/02\/kenwood-italian-pizza-dough-recipe-5.jpg",
+      "hostPageUrl": "https:\/\/recipesfromapantry.com\/pizza-dough-recipe\/",
+      "contentSize": "119667 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https:\/\/recipesfromapantry.com\/pizza-dough-recipe",
+      "width": 768,
+      "height": 1152,
+      "hostPageFavIconUrl": "https:\/\/www.bing.com\/th?id=ODF.a3xEGf-3ijLftuTIx6AGjw&pid=Api",
+      "thumbnail": {
+        "width": 474,
+        "height": 711
+      },
+      "imageInsightsToken": "ccid_Gg9P+S8Q*cp_D57A891B07A7AB22DBED04D0D6079840*mid_C7DD72A5AB7430E3AE5ABD942F3FB0AC30B70156*simid_608011985717035119*thid_OIP.Gg9P-S8Q-wOLlxxZ63dr6gHaLH",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 2
+      },
+      "imageId": "C7DD72A5AB7430E3AE5ABD942F3FB0AC30B70156",
+      "accentColor": "B73F14"
+    },
+    {
+      "webSearchUrl": "https:\/\/www.bing.com\/images\/search?view=detailv2&FORM=OIIRPO&q=pizza&id=C8F9D13A195BFC77B1E5DB3C3E8973B4696E0CE4&simid=608046800639560509",
+      "name": "Proper homemade Italian pizza | The Food Archive",
+      "thumbnailUrl": "https:\/\/tse2.mm.bing.net\/th?id=OIP.6lrbkMTdVOScpJ05ZiLEMAHaKe&pid=Api",
+      "datePublished": "2011-09-15T12:00:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "http:\/\/matarkivet.files.wordpress.com\/2011\/09\/salamipizza.jpg",
+      "hostPageUrl": "https:\/\/thefoodarchive.wordpress.com\/2011\/09\/15\/proper-homemade-italian-pizza\/",
+      "contentSize": "3176707 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https:\/\/thefoodarchive.wordpress.com\/2011\/09\/15\/proper-homemade-italian-pizza",
+      "width": 3621,
+      "height": 5120,
+      "hostPageFavIconUrl": "https:\/\/www.bing.com\/th?id=ODF.ZTFmdz3IgSe9Ov4Lbf5epw&pid=Api",
+      "hostPageDomainFriendlyName": "WordPress.com",
+      "thumbnail": {
+        "width": 474,
+        "height": 670
+      },
+      "imageInsightsToken": "ccid_6lrbkMTd*cp_74750B29E4D668B758D7562774039EBA*mid_C8F9D13A195BFC77B1E5DB3C3E8973B4696E0CE4*simid_608046800639560509*thid_OIP.6lrbkMTdVOScpJ05ZiLEMAHaKe",
+      "insightsMetadata": {
+        "pagesIncludingCount": 6,
+        "availableSizesCount": 4
+      },
+      "imageId": "C8F9D13A195BFC77B1E5DB3C3E8973B4696E0CE4",
+      "accentColor": "C07C0B"
+    },
+    {
+      "webSearchUrl": "https:\/\/www.bing.com\/images\/search?view=detailv2&FORM=OIIRPO&q=pizza&id=18686195A421FE81D2A72D451CE938AD3995FEF6&simid=608049523709906342",
+      "name": "Best Ever Zucchini Crust Pizza | The Recipe Critic",
+      "thumbnailUrl": "https:\/\/tse1.mm.bing.net\/th?id=OIP.em77yHY1kBstjpaBAfHdGgHaLH&pid=Api",
+      "datePublished": "2019-06-19T06:32:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https:\/\/therecipecritic.com\/wp-content\/uploads\/2018\/08\/zucchini_crust_pizza-1-of-1.jpg",
+      "hostPageUrl": "https:\/\/therecipecritic.com\/zucchini-crust-pizza\/",
+      "contentSize": "171747 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https:\/\/therecipecritic.com\/zucchini-crust-pizza",
+      "width": 1000,
+      "height": 1500,
+      "hostPageFavIconUrl": "https:\/\/www.bing.com\/th?id=ODF.d2tsN86yGftlDE5XUsqfpw&pid=Api",
+      "hostPageDomainFriendlyName": "The Recipe Critic",
+      "thumbnail": {
+        "width": 474,
+        "height": 711
+      },
+      "imageInsightsToken": "ccid_em77yHY1*cp_1D9D6F789B7E45A7D341B93811A3EA8D*mid_18686195A421FE81D2A72D451CE938AD3995FEF6*simid_608049523709906342*thid_OIP.em77yHY1kBstjpaBAfHdGgHaLH",
+      "insightsMetadata": {
+        "pagesIncludingCount": 22,
+        "availableSizesCount": 10
+      },
+      "imageId": "18686195A421FE81D2A72D451CE938AD3995FEF6",
+      "accentColor": "BB8910"
+    },
+    {
+      "webSearchUrl": "https:\/\/www.bing.com\/images\/search?view=detailv2&FORM=OIIRPO&q=pizza&id=DDD4CDB1569D71C84F4E8A307029FD9A78FFBC8D&simid=608012578448476961",
+      "name": "The Essential Tools for Homemade Pizza | Serious Eats",
+      "thumbnailUrl": "https:\/\/tse2.mm.bing.net\/th?id=OIP.oBHn_iJUteXsLmeADsvWjQHaFj&pid=Api",
+      "datePublished": "2018-02-05T23:21:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "http:\/\/www.seriouseats.com\/images\/2016\/05\/20160503-Uuni-oven-pizza-review-20-1500x1125.jpg",
+      "hostPageUrl": "http:\/\/www.seriouseats.com\/2016\/05\/essential-tools-for-baking-pizza-at-home.html",
+      "contentSize": "440960 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.seriouseats.com\/2016\/05\/essential-tools-for-baking-pizza-at-home.html",
+      "width": 1500,
+      "height": 1125,
+      "hostPageFavIconUrl": "https:\/\/www.bing.com\/th?id=ODF.wMoxQosSEkU2uEcPi9785w&pid=Api",
+      "hostPageDomainFriendlyName": "Serious Eats",
+      "thumbnail": {
+        "width": 474,
+        "height": 355
+      },
+      "imageInsightsToken": "ccid_oBHn\/iJU*cp_7683F1F3465B6ACE5950F9443F68C392*mid_DDD4CDB1569D71C84F4E8A307029FD9A78FFBC8D*simid_608012578448476961*thid_OIP.oBHn!_iJUteXsLmeADsvWjQHaFj",
+      "insightsMetadata": {
+        "pagesIncludingCount": 11,
+        "availableSizesCount": 7
+      },
+      "imageId": "DDD4CDB1569D71C84F4E8A307029FD9A78FFBC8D",
+      "accentColor": "B0331B"
+    },
+    {
+      "webSearchUrl": "https:\/\/www.bing.com\/images\/search?view=detailv2&FORM=OIIRPO&q=pizza&id=6CA98B060534FD6654306EC83782BCAF923B40FB&simid=608006659870690739",
+      "name": "Chicken Crust Pizza | The Ruby Kitchen",
+      "thumbnailUrl": "https:\/\/tse1.mm.bing.net\/th?id=OIP.Mjao861OXMocAHBvZabp0ADMEy&pid=Api",
+      "datePublished": "2017-08-26T12:00:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https:\/\/therubykitchen.files.wordpress.com\/2017\/08\/chicken-crust-pizza-3.jpg",
+      "hostPageUrl": "https:\/\/therubykitchen.com\/2017\/08\/26\/chicken-crust-pizza\/",
+      "contentSize": "7509698 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https:\/\/therubykitchen.com\/2017\/08\/26\/chicken-crust-pizza",
+      "width": 3456,
+      "height": 5184,
+      "thumbnail": {
+        "width": 204,
+        "height": 306
+      },
+      "imageInsightsToken": "ccid_Mjao861O*cp_512D0DF034A60201CD7BC74CF69FA07F*mid_6CA98B060534FD6654306EC83782BCAF923B40FB*simid_608006659870690739*thid_OIP.Mjao861OXMocAHBvZabp0ADMEy",
+      "insightsMetadata": {
+        "pagesIncludingCount": 3,
+        "availableSizesCount": 2
+      },
+      "imageId": "6CA98B060534FD6654306EC83782BCAF923B40FB",
+      "accentColor": "B53E10"
+    }
+  ]
+}

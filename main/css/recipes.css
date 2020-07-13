@@ -1,0 +1,76 @@
+.recipe-parent h1 {
+    display: flex;
+    padding: 1%;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#openRecipeBt{
+    margin-left: 50%;
+}
+
+.created-recipes{
+    display: flex;
+    padding: 1%;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.add-recipe {
+    display: none;
+    padding: 1%;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#foodImg {
+    border-color: darkblue;
+    border-style: solid;
+    border-width: 0.3ch;
+}
+
+
+.b-container {
+    width: 100%;
+    height: auto;
+    background-color: #ccc;
+    margin: 0px auto;
+    padding: 10px;
+    font-size: 30px;
+    color: #fff;
+}
+
+.b-popup {
+    display: none;
+    width: 100%;
+    min-height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    position: fixed;
+    top: 0px;
+}
+
+.b-popup .b-popup-content {
+    margin: 40px auto 0px auto;
+    width: 70%;
+    height: auto;
+    padding: 2%;
+    background-color: #c5c5c5;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #000;
+}
+
+#popupClose{
+    margin-left: 95%;
+}
+.food-image {
+    cursor: pointer;
+}
+
+textarea {
+    resize: vertical;
+
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Avatar API</title>
+    <link href="css/main.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<div>
+<h3>Введите ваше имя : </h3><input id ="name" type="text">
+    <div id = "avatar" class="avatar-icon">
+    </div>
+    <input id = "size" type="range" min="40" max="285"></p>
+    <button type="submit" onclick="imageGenerator()">Создать</button>
+
+
+
+</div>
+<script>
+    function imageGenerator() {
+        let imgSize = document.getElementById("size").value;
+        let name =  document.getElementById("name").value;
+        //let avatar = "https://api.adorable.io/avatars/"+imgSize+"/"+name+".png"
+        let avatar = document.createElement('img');
+        avatar.src = "https://api.adorable.io/avatars/"+imgSize+"/"+name+".png";
+        let avatarDiv = document.getElementById("avatar");
+        avatarDiv.removeChild(avatarDiv.lastChild);
+
+        document.getElementById("avatar").appendChild(avatar);
+    }
+</script>
+</body>
+</html>

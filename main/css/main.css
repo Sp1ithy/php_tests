@@ -1,0 +1,58 @@
+.login-parent {
+
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    width: fit-content;
+    margin: 0 auto;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+
+
+}
+.form-wrapper{
+    display: block;
+    border-style: solid;
+    border-bottom-color: darkred;
+    border-width: 1ch;
+    position: relative;
+    padding-left: 10%;
+}
+
+.form-wrapper input{
+    border: black;
+    border-style: solid;
+    border-radius: 1ch;
+
+}
+
+#submit{
+    border: none;
+    margin-left: 23%;
+}
+
+.form-wrapper b {
+    padding: 2%;
+   bottom: 10%;
+}
+.form-wrapper h2{
+    background-color: cornsilk;
+    width: fit-content;
+    border: 0.5ch outset darkred;
+    border-radius: 10px;
+    padding: 2%;
+}
+
+/*body{*/
+/*    position: center;*/
+/*    background-image: url("background2.jpg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-position-x: center;*/
+/*}*/

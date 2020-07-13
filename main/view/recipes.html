@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../css/recipes.css" type="text/css" rel="stylesheet">
+    <title>Мои рецептики (*¯︶¯*)</title>
+
+</head>
+<body>
+
+
+<div class="recipe-parent">
+    <h1>Рецептики (˙꒳​˙)</h1>
+    <div class="add-recipe" id="addRecipe">
+        <form>
+            <label class="form-child"><b>Имя :</b></label><br>
+            <input type="text" placeholder="Название рецепта"><br>
+
+            <label class="form-child"><b>Фото блюда:</b></label><br>
+            <div class="food-image" onclick="addImagePopUp()">
+                <img src="../resources/food.png" width="256" height="256" id="foodImg">
+            </div>
+            <br>
+
+            <label class="form-child"><b>Категория :</b></label><br>
+            <label>Пока не доступно =(</label><br>
+            <label class="form-child"><b>Описание</b> :</label><br>
+            <textarea rows="5" cols="25" placeholder="Ваш рецепт"></textarea><br>
+            <input type="submit">
+        </form>
+    </div>
+</div>
+
+<div class="created-recipes">
+    <label><b>Категория : </b></label>
+        <select id="select">
+            <option value="1">Выпечка</option>
+            <option value="2">Первые блюда</option>
+        </select>
+    <button id="addCategory">+</button>
+    <button id="delCategory">-</button>
+</div>
+
+<div class="accept-bt">
+    <button id="openRecipeBt" onclick="openRecipeForm()">Добавить рецепт</button>
+</div>
+
+
+<div id="popup" class="b-popup">
+    <div class="b-popup-content">
+        <button id='popupClose' onclick='closePopUp()'>X</button>
+        <label><h3>Поиск блюда по названию</h3></label></p>
+        <input type="text" size="15" id="foodImageName" placeholder="Название блюда">
+        <button onclick="searchImage()">Поиск</button>
+        </p>
+        <div class="image-search-results" id="imageSearchResults">
+
+        </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="../controller/recipeController.js"></script>
+<script>
+    function closePopUp() {
+        document.getElementById('popup').style.display = "none"
+    }
+</script>
+</body>
+</html>
